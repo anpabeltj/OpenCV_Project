@@ -22,5 +22,5 @@ A real-time motion detector using OpenCV and NumPy. Captures webcam frames, comp
 ## Installation 🛠️  
 Create & activate a virtual environment:  
    ```bash
-   git clone https://github.com/anpabeltj/re-cafe-website.git
-   cd re-cafe-website
+   git clone https://github.com/anpabeltj/OpenCV_Project.git
+   cd OpenCV_Project
